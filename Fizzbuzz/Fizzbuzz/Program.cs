@@ -1,4 +1,11 @@
-﻿using System;
+﻿/*
+ Exercise 3.3 – Practice loops and operators
+FizzBuzz is a group word game for children to teach them about division. Players 
+take turns to count incrementally, replacing any number divisible by three with 
+the word fizz, any number divisible by five with the word buzz, and any number 
+divisible by both with fizzbuzz.
+*/
+using System;
 
 namespace Fizzbuzz
 {
@@ -6,30 +13,35 @@ namespace Fizzbuzz
 	{
 		static void Main(string[] args)
 		{
-			for (int n = 1; n <= 100; n++)
+			/*for(int n=1; n <= 100; n++)
 			{
-				if (n % 3 == 0 && n % 5 == 0)
+				if (n % 3 == 0 && n%5==0)
 				{
-					Console.Write("fizzbuzz");
+					Console.Write("fizzbuzz,");
 				}
-				else if (n % 3 == 0)
+				else if(n % 3 == 0) 
 				{
-					Console.Write("fizz");
+					Console.Write("fizz,");
 				}
 				else if (n % 5 == 0)
 				{
-					Console.Write("buzz");
+					Console.Write("buzz,");
 				}
 				else
 				{
-					Console.Write(n);
+					Console.Write(n + ", ");
 				}
-				while (n < 100)
-				{
-					Console.Write(", ");
-				}
-				Console.ReadKey();
-			}
+			}*/
+			/*
+			 * x = 3;
+y = 2 + ++x; 
+			 **/
+			int x = 10 & 8; ;
+			int y=10 | 7;
+			Console.Write("x = {0} ********** y = {1}",x, y);
+
+
+			Console.ReadKey();
 		}
 	}
 }

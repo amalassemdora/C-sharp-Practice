@@ -1,0 +1,13 @@
+E:\C#\CalculateFactorial\CalculateFactorial\bin\Debug\netcoreapp3.1\CalculateFactorial.exe
+E:\C#\CalculateFactorial\CalculateFactorial\bin\Debug\netcoreapp3.1\CalculateFactorial.deps.json
+E:\C#\CalculateFactorial\CalculateFactorial\bin\Debug\netcoreapp3.1\CalculateFactorial.runtimeconfig.json
+E:\C#\CalculateFactorial\CalculateFactorial\bin\Debug\netcoreapp3.1\CalculateFactorial.runtimeconfig.dev.json
+E:\C#\CalculateFactorial\CalculateFactorial\bin\Debug\netcoreapp3.1\CalculateFactorial.dll
+E:\C#\CalculateFactorial\CalculateFactorial\bin\Debug\netcoreapp3.1\CalculateFactorial.pdb
+E:\C#\CalculateFactorial\CalculateFactorial\obj\Debug\netcoreapp3.1\CalculateFactorial.csprojAssemblyReference.cache
+E:\C#\CalculateFactorial\CalculateFactorial\obj\Debug\netcoreapp3.1\CalculateFactorial.AssemblyInfoInputs.cache
+E:\C#\CalculateFactorial\CalculateFactorial\obj\Debug\netcoreapp3.1\CalculateFactorial.AssemblyInfo.cs
+E:\C#\CalculateFactorial\CalculateFactorial\obj\Debug\netcoreapp3.1\CalculateFactorial.csproj.CoreCompileInputs.cache
+E:\C#\CalculateFactorial\CalculateFactorial\obj\Debug\netcoreapp3.1\CalculateFactorial.dll
+E:\C#\CalculateFactorial\CalculateFactorial\obj\Debug\netcoreapp3.1\CalculateFactorial.pdb
+E:\C#\CalculateFactorial\CalculateFactorial\obj\Debug\netcoreapp3.1\CalculateFactorial.genruntimeconfig.cache
