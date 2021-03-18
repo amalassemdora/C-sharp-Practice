@@ -13,7 +13,7 @@ namespace Fizzbuzz
 	{
 		static void Main(string[] args)
 		{
-			/*for(int n=1; n <= 100; n++)
+			for(int n=1; n <= 100; n++)
 			{
 				if (n % 3 == 0 && n%5==0)
 				{
@@ -31,16 +31,7 @@ namespace Fizzbuzz
 				{
 					Console.Write(n + ", ");
 				}
-			}*/
-			/*
-			 * x = 3;
-y = 2 + ++x; 
-			 **/
-			int x = 10 & 8; ;
-			int y=10 | 7;
-			Console.Write("x = {0} ********** y = {1}",x, y);
-
-
+			}
 			Console.ReadKey();
 		}
 	}
